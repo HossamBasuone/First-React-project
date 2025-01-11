@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.active{
+    padding: 3px;
+    border-radius: 10px;
+    background-color:#1abc9c;
+}
+@media (max-width: 768px) { 
+    .active{
+        width: fit-content ;
+        background-color: #1abc9c;
+    }
+
+}
