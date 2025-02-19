@@ -13,7 +13,7 @@ A React-based project built as part of a **Route Academy task**, demonstrating t
 
 - **React + Vite** ⚛️  
 - **React Router** 🚏  
-- **Taiwind for styling**  
+✅ Tailwind CSS for a sleek, responsive design 🎨
 
 ## 🚀 How to Run Locally  
 
