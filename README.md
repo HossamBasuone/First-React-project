@@ -40,3 +40,14 @@ npm run dev
 
 4️⃣ **Open in browser**  
 Visit `http://localhost:5173` in your browser to see the app in action.  
+
+Here's your updated **Screenshots** section with improved formatting and spacing:  
+
+---
+
+## 📸 **Screenshots**  
+
+
+![image](https://github.com/user-attachments/assets/cbc076af-d3f0-4665-b761-122d40492850)
+
+
