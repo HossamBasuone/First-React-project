@@ -11,9 +11,10 @@ A React-based project built as part of a **Route Academy task**, demonstrating t
 
 ## 📦 Technologies Used  
 
-- **React + Vite** ⚛️  
-- **React Router** 🚏  
+✅ React Router for dynamic page transitions 🚏
 ✅ Tailwind CSS for a sleek, responsive design 🎨
+✅ Single Page Application (SPA) behavior 📄
+✅ Reusable React components for better maintainability ⚛️
 
 ## 🚀 How to Run Locally  
 
